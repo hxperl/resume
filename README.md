@@ -1,144 +1,101 @@
-# Heechan Bak (CHANN) ![Job](https://img.shields.io/badge/looking__for__job-false-red.svg)
+# Geonsoek Lee (hxperl)
 
-<a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
-<a href="https://blog.chann.kr">![Blog](https://img.shields.io/badge/blog-blog.chann.kr-303030.svg)</a>
-<a href="https://twitter.com/channprj">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
-<a href="https://fb.com/channprj">![Facebook](https://img.shields.io/badge/facebook-channprj-3b5998.svg)</a>
-<a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
-<a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
-
-> _Read this in other languages: [English](https://about.chann.kr/en), [한국어](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)_
+<a href="mailto:hxperl@gmail.com">![Email](https://img.shields.io/badge/email-hxperl@gmail.com-ea4335.svg)</a>
+<a href="https://www.linkedin.com/in/geon-seok-lee-50ab48141/">![Linkedin](https://img.shields.io/badge/linkedin-hxperl-0077b5.svg)</a>
 
 ## Summary
-- Total 2 years and 4 months as a Software Engineer.
-- Automate recursive working area to increase efficiency.
-- Fast adapting skills in new environments and build production grade application.
-- Production-experienced REST API with Golang, Node.js, and Python.
-- Create sleek dashboard with React.js and MobX from the bottom.
-- Savvy in building/operating container-based architecture, container orchestration, and cluster management with kubernetes.
+- 소프트웨어 엔지니어로 2년 6개월의 경력.
+- Swift로 iOS 앱 개발을 주력으로 합니다.
+- MVVM, VIPER, RIBs등의 아키텍처에 관심이 있습니다.
+- SwiftUI, Combine에 적응 중입니다.
+- iOS 기반의 이미지 처리 프로세싱 프레임워크 커스텀 적용 및 개발이 경헙이 있습니다.
+- 간단한 백엔드 API서버를 구축하고 모바일 클라이언트와 데이터 모델 통신을 구현할 수 있습니다.
 
 ----
 
 ## Profile
-* **Name** : Heechan Bak
-* **Address** : Seoul
-* **Language** : Korean (Native), English (Limited Working Proficiency)
-
+* **이름** : 이 건 석
+* **주소** : 서울 관악구 남부순환로 202
+* **생년월일** : 1991.10.28
+* **이메일** : hxperl@gmail.com
 ----
 
 ## Experience
-- [December and Company](https://dco.com/) (2019.09 ~ Current) - Backend Developer
-    - [Fint](https://www.fint.co.kr/) API Development
-- [OWDIN Network](https://owdin.network/) (2018.01 ~ 2019.09) - DApp and Backend Developer
-    - Blockchain based decentralized application development (DApp)
-      - Ethereum, EOS, COSMOS Network
-      - Experienced Smart Contract and DApp Development
-      - [1st Prize in EOSYS DApp Contest](https://medium.com/eosys/announcement-of-the-1st-dapp-contest-winners-50650d6a43b1)
-    - [IPFS](https://ipfs.io/) Management Tool
-      - Middleware file server built with golang and echo
-      - Knowledge of distributed storage systems
-      - Dropbox-like file/folder management dashboard
-      - Upload files into ipfs cluster with pub-sub message queue
-      - Tech stack : Golang, Echo, RabbitMQ, MySQL, React.js, MobX, Ant Design
-    - Backoffice Management Tool
-      - Container-based microservice architecture and single page application
-      - Tech stack : Golang, Node.js, MySQL, MongoDB, React.js, MobX, Ant Design
-    - CI/CD Automation with Docker Container
-      - Up and running private docker registry and GitLab
-      - Deploy production containers at scale into multiple IaaS
-      - Test, build, deploy automation with docker container and private docker registry
-    - Stand-up Meeting Chatbot on Slack
-      - Answer the simple question to chatbot
-      - Switch to asynchronous daily meetings
-- [Cafe24](https://cafe24corp.com/) (2016.08 ~ 2017.04) - Infra Team
-    - Varnish Cache Checker
-      - Read apache weblog and check static assets cached or not
-      - Send alarm message to operations manager if assets does not cached
-      - PHP(Code Igniter) and jQuery for frontend, python script for backend
-    - Autoscaling Server with Test Automation
-      - Automate procedures of scale-out shopping mall servers
-      - Send alarm message to operations manager if test has failed
-      - PHP(Code Igniter) and jQuery for frontend, python and shell script for backend
-    - Server / Application Configuration Checker
-      - Check apache congif, db config, etc. automatically
-      - Send alarm message to operations manager if config is invalid
-      - Python(Django) and jQuery for frontend, python, ansible for backend
-- [NHN Entertainment](http://www.nhnent.com) 1st CodeCamp (2015.06 ~ 2015.08) - Bootcamp of newbie developer
-    - [Frieday](https://github.com/channprj/frieday) - Gamification service of ordering chicken ([slide](https://www.slideshare.net/channprj/frieday))
+- [39 Degrees C](http://39degreesc.com//) (2017.11 ~ Current) - iOS Developer
+    - [feedeo](https://apps.apple.com/us/app/feedeo-using-fancy-template/id1482728082?l=en&ls=1) - iOS
+      - 비디오/사진 필터 어플리케이션
+      - Swift로 개발
+      - [GPUImage3](https://github.com/BradLarson/GPUImage3) 커스텀 적용
+      - 템플릿, 텍스트, WebP 오버레이
+      - 어플리케이션 내 모든 데이터 관리 : [RealmSwift](https://realm.io/docs/swift/latest/)
+      - AVFoundation을 활용한 비디오 편집
+
+    - feedeo - Backend
+      - API 설계 및 개발
+    - [LILAY Live](https://apps.apple.com/us/app/lilay-mobile-live-streaming/id1444002902?l=ko&ls=1) - iOS
+      - Multi-Device Live Bradcasting App
+      - Swift로 개발
+      - 최대 4대 아이폰 카메라 연결 지원
+      - 이미지, 텍스트, GIF 오버레이 기능 개발
+      - [MultipeerConnectivity](https://developer.apple.com/documentation/multipeerconnectivity): 디바이스 간 데이터 전송 프레임워크
+      - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit): 사용자 인앱 결제 관리
+      - [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit): RTMP 송출
+    - [BrazilNut](https://github.com/hxperl/BrazilNut) - Swift Library
+      - Swift Package Manager 설치 지원
+      - [feedeo](https://apps.apple.com/us/app/feedeo-using-fancy-template/id1482728082?l=en&ls=1) 어플리케이션의 새로운 기능을 위해 개발한 라이브러리
+      - BrazilNut을 적용한 사내용 필터 제작 앱 개발
+      - LILAY Live 2.0 베타 테스트 완료
+    - featcam - Android (서비스 중지)
+      - 영상 편집 어플리케이션
+      - Kotlin으로 개발
+      - [FFmpeg](https://www.ffmpeg.org/) 빌드: 인코딩 및 모든 영상 효과 적용
+      - [Gson](https://github.com/google/gson)을 활용한 JSON타입의 데이터 구조 관리
 
 ### Personal Project
-- [KUPLEZONE](https://kuple.kr/) (2010.02 ~ 2016.12) - Korea University (Sejong) Online Service
-- [LAWDY](https://lawdy.chann.kr/) (2017.06 ~ 2017.11) - Legaltech Service (Deprecated)
-    - Questionnaire-based Standard Legal Contract Generator
+- [close-friends](https://github.com/hxperl/close-friends) (2015.04 ~ 2015.06) - 친구 위치 추적 안드로이드 어플리케이션
+- [scrapers](https://github.com/hxperl/scrapers) (2017.02) - 쇼핑 사이트 스크래핑
+- [MetalNut](https://github.com/hxperl/MetalNut) (2020.01 ~ ) - Metal텍스처 기반의 카메라 렌더링 라이브러리 
+- [ARDrawingNet](https://github.com/hxperl/ARDrawingNet) (2019.11 ~ 2019.11) - AR 기반의 3D 펜 그리기
+    - Multipeer 기능으로 여러 명의 사용자와 연결해서 그리기
 
 ----
 
 ## Education
 ### Degree
-- Korea University(Sejong) (2010.03 ~ 2017.02)
-  - BS in [Computer and Information Science](http://kucis.korea.ac.kr) from [Science and Technology](http://st.korea.ac.kr)
-- Korea University(Seoul) (2012.03 ~ 2017.02)
-  - BS in [Brain and Cognitive Science](http://brain.korea.ac.kr/bcs/) from [Brain and Cognitive Engineering](http://brain.korea.ac.kr/)
-
-### Extra Courses
-- Seoul National University, Institute of Computer Technology (2014.07 ~ 2014.09)
-  - A course in [Multicore Programming](http://aces.snu.ac.kr/) on [supercomputer(Chundoong)](http://chundoong.snu.ac.kr/)
-  - Coursework: C, Linux, Pthread, OpenMP, OpenCL, MPI
-- Korea Productivity Center (2015.07 ~ 2015.08)
-  - A course in Wearable Device Programming(IoT)
-  - Coursework: Android, JSP, IoT, Server, API
-
+- 고려대학교 세종캠퍼스 (2010.03 ~ 2018.02)
+  - 컴퓨터융합소프트웨어 전공
 ----
 
 ## Skills
 
 ### Programming Language
-- Golang (Favored)
-- Python (Favored)
-- JavaScript (ES6)
+- Swift (Favored)
+- Python
+- Kotlin
 
 ### Frameworks and Libraries
-- Echo, xorm
-- Django, Flask
-- Express.js
-- React.js, MobX, Ant Design, Semantic UI
-- Docker, Kubernetes
-- GitLab CI/CD, Jenkins
-- RabbitMQ, Redis
-- Terraform
+- SwiftUI
+- Combine
+- RxSwift
+- GPUImage3
+- Alamofire
+- SnapKit
+- Flask, Flask-Restful
 
 ### DB
-- MySQL or MariaDB
 - PostgreSQL
-- MongoDB
 
 ----
 
 ## Activities & Certificates
-- [Pycon Korea](https://www.pycon.kr/) (2016.10 ~ 2017.08)
-- [Djangogirls Seoul](https://djangogirls.org/seoul/) Coach (2017.06)
-- [OSS Dev Forum](https://www.facebook.com/groups/ossdevforum/) Hands on Lab Teaching Assistant
-- [Git and Github Instructor](https://onoffmix.com/event/95827)
-- [Google Study Jam 2019](https://events.withgoogle.com/cloud-studyjam/)
-- [EOSYS DApp Contest](https://medium.com/eosys/announcement-of-the-1st-dapp-contest-winners-50650d6a43b1) - 1st Prize
+- [Machine Learning](https://www.coursera.org/account/accomplishments/verify/NF232N8AA2D7) (2019.06) - Coursera
+- [Google Cloud Essentials](https://www.qwiklabs.com/public_profiles/a48e4bf4-6a4c-43be-a604-afd88dfa6335) (2019.05) - Google Qwiklabs
+- [Baseline: Data, ML, AI](https://www.qwiklabs.com/public_profiles/a48e4bf4-6a4c-43be-a604-afd88dfa6335) (2019.05) - Google Qwiklabs
+- [Kubernetes in Google Cloud](https://www.qwiklabs.com/public_profiles/a48e4bf4-6a4c-43be-a604-afd88dfa6335) (2019.02) - Google Qwiklabs
+- [Launching into Machine Learning](https://www.coursera.org/account/accomplishments/verify/7KYVGBYW6D63) (2019.05) - Coursera
+- [Getting Started with Google Kubernetes Engine
+](https://www.coursera.org/account/accomplishments/verify/HT46KR5RUM8Z) (2019.04) - Coursera
 - Etc
 
-----
 
-## Open Source Contributions
-
-### Pull Requests
-- Update: Translate introduction in Korean [#145](https://github.com/tiimgreen/github-cheat-sheet/pull/145) in tiimgreen/github-cheat-sheet
-- Add: Language version and print output in one line [#11](https://github.com/Baekjoon/submit-tool/pull/11) in Baekjoon/submit-tool
-- Init: Entrance [#99](https://github.com/pythonkr/pyconkr-2017/pull/99/commits/e771d4c2af0737a1f56ba5f82a46cd66535a76f1) in pythonkr/pyconkr-2017
-- Fix: Bithumb Bad Request(Auth Data) - Convert header value to string [#1030](https://github.com/ccxt/ccxt/pull/1030) in ccxt/ccxt
-- Add: Bithumb Private API - Withdraw [#1077](https://github.com/ccxt/ccxt/pull/1077) in ccxt/ccxt
-- Fix: Kakao OAuth Failure - Headers for authorization [#171](https://github.com/python-social-auth/social-core/pull/171) in python-social-auth/social-core
-- Update: Support reverse order and show payer option - Fix #324 [#464](https://github.com/EOSIO/eosjs/pull/464) in EOSIO/eosjs
-
-### Maintainer
-- [cleos-zsh-completion](https://github.com/OWDIN/cleos-zsh-completion) - Auto-completion for cleos
-
-----
-
-For more information, Contact me on <a href="mailto:chann@chann.kr">![Email](https://img.shields.io/badge/email-chann@chann.kr-ea4335.svg)</a>
+For more information, Contact me on <a href="mailto:hxperl@gmail.com">![Email](https://img.shields.io/badge/email-hxperl@gmail.com-ea4335.svg)</a>
