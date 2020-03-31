@@ -35,7 +35,7 @@
     - [LILAY Live](https://apps.apple.com/us/app/lilay-mobile-live-streaming/id1444002902?l=ko&ls=1) - iOS
       - Multi-Device Live Bradcasting App
       - Swift로 개발
-      - 최대 4대 아이폰 카메라 연결 지원
+      - 최대 4대 아이폰 카메라 연결 지원
       - 이미지, 텍스트, GIF 오버레이 기능 개발
       - [MultipeerConnectivity](https://developer.apple.com/documentation/multipeerconnectivity): 디바이스 간 데이터 전송 프레임워크
       - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit): 사용자 인앱 결제 관리
