@@ -21,7 +21,7 @@
 ----
 
 ## Experience
-- [39 Degrees C](http://39degreesc.com//) (2017.11 ~ Current) - iOS Developer
+- [39 Degrees C](http://39degreesc.com/) (2017.11 ~ Current) - iOS Developer
     - [feedeo](https://apps.apple.com/us/app/feedeo-using-fancy-template/id1482728082?l=en&ls=1) - iOS
       - 비디오/사진 필터 어플리케이션
       - Swift로 개발
