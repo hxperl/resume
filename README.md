@@ -56,7 +56,9 @@
 - [scrapers](https://github.com/hxperl/scrapers) (2017.02) - 쇼핑 사이트 스크래핑
 - [MetalNut](https://github.com/hxperl/MetalNut) (2020.01 ~ ) - Metal텍스처 기반의 카메라 렌더링 라이브러리 
 - [ARDrawingNet](https://github.com/hxperl/ARDrawingNet) (2019.11 ~ 2019.11) - AR 기반의 3D 펜 그리기
-    - Multipeer 기능으로 여러 명의 사용자와 연결해서 그리기
+    - Multipeer 기능으로 근접한 사용자와 연결
+- [RSSReader](https://github.com/hxperl/RSSReader) (2020.03 ~) - 구글 뉴스 RSS 파싱
+    - SwiftUI 와 Combine 프레임워크를 활용한 MVVM 아키텍처
 
 ----
 
