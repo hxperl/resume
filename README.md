@@ -33,7 +33,7 @@
     - feedeo - Backend
       - API 설계 및 개발
     - [LILAY Live](https://apps.apple.com/us/app/lilay-mobile-live-streaming/id1444002902?l=ko&ls=1) - iOS
-      - Multi-Device Live Bradcasting App
+      - Multi-Device Live Broadcasting App
       - Swift로 개발
       - 최대 4대 아이폰 카메라 연결 지원
       - 이미지, 텍스트, GIF 오버레이 기능 개발
