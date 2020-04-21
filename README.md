@@ -4,68 +4,69 @@
 <a href="https://www.linkedin.com/in/geon-seok-lee-50ab48141/">![Linkedin](https://img.shields.io/badge/linkedin-hxperl-0077b5.svg)</a>
 
 ## Summary
-- 소프트웨어 엔지니어로 2년 6개월의 경력.
-- Swift로 iOS 앱 개발을 주력으로 합니다.
-- MVVM, VIPER, RIBs등의 아키텍처에 관심이 있습니다.
-- SwiftUI, Combine에 적응 중입니다.
-- iOS 기반의 이미지 처리 프로세싱 프레임워크 커스텀 적용 및 개발이 경험이 있습니다.
-- 간단한 백엔드 API서버를 구축하고 모바일 클라이언트와 데이터 모델 통신을 구현할 수 있습니다.
+- Mainly develop iOS applications using Swift.
+- Interested in the architecture of MVVM, VIPER, RIBs
+- I have experience in custom application and development of an iOS-based image processing framework.
+- Build a simple backend API server and implement data model communication with mobile clients.
 
 ----
 
 ## Profile
-* **이름** : 이 건 석
-* **주소** : 서울 관악구 남부순환로 202
-* **생년월일** : 1991.10.28
-* **이메일** : hxperl@gmail.com
+* **Name** : Lee, Geon-seok
+* **Address** : Gwanak-gu, Seoul
+* **Birth** : 1991.10.28
+* **E-mail** : hxperl@gmail.com
 ----
 
 ## Experience
 - [39 Degrees C](http://39degreesc.com/) (2017.11 ~ Current) - iOS Developer
     - [feedeo](https://apps.apple.com/us/app/feedeo-using-fancy-template/id1482728082?l=en&ls=1) - iOS
-      - 비디오/사진 필터 어플리케이션
-      - Swift로 개발
-      - [GPUImage3](https://github.com/BradLarson/GPUImage3) 커스텀 적용
-      - 템플릿, 텍스트, WebP 오버레이
-      - 어플리케이션 내 모든 데이터 관리 : [RealmSwift](https://realm.io/docs/swift/latest/)
-      - AVFoundation을 활용한 비디오 편집
+      - Photo/Video filter application
+      - Swift
+      - Customized [GPUImage3](https://github.com/BradLarson/GPUImage3)
+      - Template, Text, WebP Overaly
+      - [RealmSwift](https://realm.io/docs/swift/latest/): All data management in the application 
+      - Video editing with AVFoundation
 
     - feedeo - Backend
-      - API 설계 및 개발
+      - API design and development
+ 
     - [LILAY Live](https://apps.apple.com/us/app/lilay-mobile-live-streaming/id1444002902?l=ko&ls=1) - iOS
       - Multi-Device Live Broadcasting App
-      - Swift로 개발
-      - 최대 4대 아이폰 카메라 연결 지원
-      - 이미지, 텍스트, GIF 오버레이 기능 개발
-      - [MultipeerConnectivity](https://developer.apple.com/documentation/multipeerconnectivity): 디바이스 간 데이터 전송 프레임워크
-      - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit): 사용자 인앱 결제 관리
-      - [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit): RTMP 송출
+      - Swift
+      - Supports connection of up to 4 iPhone cameras
+      - Development of Image, Text, and GIF overlay functions
+      - [MultipeerConnectivity](https://developer.apple.com/documentation/multipeerconnectivity): Device-to-device data transfer framework
+      - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit): User in-app billing management
+      - [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit): RTMP broadcast
+
     - [BrazilNut](https://github.com/hxperl/BrazilNut) - Swift Library
-      - Swift Package Manager 설치 지원
-      - [feedeo](https://apps.apple.com/us/app/feedeo-using-fancy-template/id1482728082?l=en&ls=1) 어플리케이션의 새로운 기능을 위해 개발한 라이브러리
-      - BrazilNut을 적용한 사내용 필터 제작 앱 개발
-      - LILAY Live 2.0 베타 테스트 완료
-    - featcam - Android (서비스 중지)
-      - 영상 편집 어플리케이션
-      - Kotlin으로 개발
-      - [FFmpeg](https://www.ffmpeg.org/) 빌드: 인코딩 및 모든 영상 효과 적용
-      - [Gson](https://github.com/google/gson)을 활용한 JSON타입의 데이터 구조 관리
+      - Swift Package Manager installation support
+      - Library developed for new functions of [feedeo](https://apps.apple.com/us/app/feedeo-using-fancy-template/id1482728082?l=en&ls=1) application
+      - Used to develop filter making applications
+      - Tested for new features of [LILAY Live](https://apps.apple.com/us/app/lilay-mobile-live-streaming/id1444002902?l=ko&ls=1)
+    - featcam - Android (Service stopped)
+      - Video editing application
+      - Kotlin
+      - [FFmpeg](https://www.ffmpeg.org/): Encoding function and all video effects
+      - [Gson](https://github.com/google/gson): JSON type data structure management
 
 ### Personal Project
-- [close-friends](https://github.com/hxperl/close-friends) (2015.04 ~ 2015.06) - 친구 위치 추적 안드로이드 어플리케이션
-- [scrapers](https://github.com/hxperl/scrapers) (2017.02) - 쇼핑 사이트 스크래핑
-- [MetalNut](https://github.com/hxperl/MetalNut) (2020.01 ~ ) - Metal텍스처 기반의 카메라 렌더링 라이브러리 
-- [ARDrawingNet](https://github.com/hxperl/ARDrawingNet) (2019.11 ~ 2019.11) - AR 기반의 3D 펜 그리기
-    - Multipeer 기능으로 근접한 사용자와 연결
-- [RSSReader](https://github.com/hxperl/RSSReader) (2020.03 ~) - 구글 뉴스 RSS 파싱
-    - SwiftUI 와 Combine 프레임워크를 활용한 MVVM 아키텍처
+- [close-friends](https://github.com/hxperl/close-friends) (2015.04 ~ 2015.06) - 
+Friend Location Tracking Android Application
+- [scrapers](https://github.com/hxperl/scrapers) (2017.02) - Shopping site scraper
+- [MetalNut](https://github.com/hxperl/MetalNut) (2020.01 ~ ) - Metal texture based image rendering library
+- [ARDrawingNet](https://github.com/hxperl/ARDrawingNet) (2019.11 ~ 2019.11) - AR Painting Application.
+    - Connect users in close using the MultipeerConnectivity framework.
+- [RSSReader](https://github.com/hxperl/RSSReader) (2020.03 ~) - RSS Google News Parser
+    - MVVM architecture utilizing SwiftUI and the Combine framework
 
 ----
 
 ## Education
 ### Degree
-- 고려대학교 세종캠퍼스 (2010.03 ~ 2018.02)
-  - 컴퓨터융합소프트웨어 전공
+- Korea University(Sejong) (2010.03 ~ 2018.02)
+  - BS in Computer and Information Science from Science and Technology
 ----
 
 ## Skills
